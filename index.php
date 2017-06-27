@@ -1,20 +1,17 @@
 <html>  
     <head>
-  <title>FerreteriaOnTheRoad</title>
+    <title>FerreteriaOnTheRoad</title>
   <link href="css/estilos.css" rel="stylesheet" type="text/css"/>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
   <body>
  
-      
-      
-      
      
   <div class="principal" align="left">
 
     <div class="encabezado1">
         
-    <img src="fondo2.jpg" alt="image" height="90px" width="100px" > 
+    <img src="fondo2.jpg" alt="image" height="80px" width="90px" > 
         
     <a href="index.php" ><i class="fa fa-home fa-2x"></i>Inicio</a>
     
