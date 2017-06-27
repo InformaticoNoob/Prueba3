@@ -21,7 +21,10 @@
         </div>
 		<div><center>
 			<form method="POST" action="index.php">
-			<button type="submit">Volver</button>
+                            
+			<br>
+                        <a href="MantenedorUsuario/Registro.php">Registro</a>
+                        
 			</form>
     </body>
 </html>
