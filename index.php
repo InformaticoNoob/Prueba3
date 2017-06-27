@@ -24,9 +24,7 @@
     <a href="Eliminar/formEliminar.php" ><i class="fa fa-book fa-fw fa-2x"></i>Eliminar Producto</a>
     
     <a href="Actualizar/formActualizarProducto.php" ><i class="fa fa-refresh fa-2x"></i>Actualizar Producto</a>
-   
-       
- 
+
     </div>
  
     <div class="contenido">
