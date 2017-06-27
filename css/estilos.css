@@ -1,0 +1,80 @@
+ body{
+                padding:20px;
+                margin:20px 20px 20px 20px ;
+                font-family:Arial;
+                font-size: 18px;
+                background-color:silver;
+                border:4px inset blue;
+}
+
+.principal{
+                width: 95%;
+                height: 900px;
+                background-color: white;
+                margin: auto ;
+                border:4px inset blue;
+}
+
+.encabezado1{
+                width: 96%;
+                height: 100px;
+                background-color: white;
+                margin: auto ;
+                border:4px inset blue;
+                font-family: cursive;
+}
+
+.encabezado2{
+                width: 70%;
+                height: 100px;
+                float: right;
+                background-color: skyblue;
+                margin: 20px 20px 20px 20px ;
+                border:4px inset blue;
+}
+
+.contenido{
+                width: 96%;
+                height: 600px;
+                background-color: white;
+                margin: 20px 20px 20px 20px ;
+                border:4px inset blue;
+}
+
+.categoria{
+                width: 20%;
+                height: 550px;
+                background-color: skyblue;
+                margin:20px 20px 20px 20px ;
+                float: left;
+                border:4px inset blue;
+                text-align:left;
+                font-family: cursive;
+                font-style: italic;
+                font-size: 20px;
+                
+}
+
+.pagina{
+                width: 70%;
+                height: 400px;
+                background-color: skyblue;
+                margin: 20px 20px 20px 20px ;
+                float: right;
+                border:4px inset blue;
+                text-align:center;
+}
+
+.piepagina{
+                width: 96%;
+                height: 100px;
+                background-color: skyblue;
+                margin: 20px 20px 20px 20px ;
+                border-color: black;
+                border:2px;
+                border:4px inset blue;
+                font-family:Arial;
+                font-size: 10px;
+}
+
+
