@@ -40,8 +40,7 @@
                             <br>
                             <br>
                             <a><i class="fa fa-bath fa-2x"></i>Baño</a>
-                            <br>
-                            
+                            <br>       
                             <a href=css/Baño.php >WC</a>
                             <br>
                             <a href=css/Baño.php >Lavamanos</a>  
