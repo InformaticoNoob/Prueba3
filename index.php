@@ -52,7 +52,6 @@
                             <br>
                             <a href=css/Living.php>Lamparas</a> 
                   </div>
-    
       <div class="encabezado2">
           <h2>¡Tornillos en la Red! </h2>
           
