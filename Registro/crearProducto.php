@@ -21,7 +21,7 @@ $sql= "INSERT INTO producto(nombre_producto, id_categoria, precio, stock) values
  
 ?>
 
-<a href="../index.php" >Actualizar Producto</a>
+<a href="../index.php" >Volver a Inicio</a>
 
 
 
