@@ -1,6 +1,6 @@
 <?php
     include('../lib/conexion.php');
-    $query = "SELECT * FROM producto WHERE id_categoria = 1";
+    $query = "SELECT * FROM producto";
     
     $resultado = $con->query($query);
 
