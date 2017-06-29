@@ -16,8 +16,6 @@
             </center>
         </div>
 		<div><center>
-			<form method="POST" action="index.php">
-			<button type="submit">Volver</button>
-			</form>
+			<br><a href="../Index.php">Volver</a>
     </body>
 </html>
