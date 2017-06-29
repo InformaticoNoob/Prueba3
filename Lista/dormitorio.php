@@ -6,7 +6,7 @@ include ('../lib/conexion.php');
 $resultado = mysqli_query($con, "SELECT * FROM producto");
 
 
-        
+
 while ($registro = mysqli_fetch_array($resultado))
 {
     echo $registro['id_producto'];
