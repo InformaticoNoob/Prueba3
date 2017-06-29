@@ -9,7 +9,7 @@ $resultado=mysqli_query($con,$sql);
 if (($resultado->num_rows)>= 1):
 	session_start();
 	$_SESSION['nombre'] = $usuario;
-	header("Location: ../index.php");
+	header("Location: ../pagInicio.php");
 else:
 	echo "<script language=JavaScript>alert('El usuario y/o contraseña son incorrectos.');
 		   history.back();</script>";

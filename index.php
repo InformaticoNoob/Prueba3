@@ -1,7 +1,3 @@
-<?php
-session_start();
-
-?>
 <html>  
     <head>
     <title>FerreteriaOnTheRoad</title>
@@ -13,8 +9,7 @@ session_start();
      
   <div class="principal" align="left">
       
-    <h3>Bienvenido, <?php echo $_SESSION['nombre'];?>! </h3>
-
+    
     
     
     <div class="encabezado1">
