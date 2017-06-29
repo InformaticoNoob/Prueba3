@@ -8,7 +8,7 @@
                 <form method="POST" action="../Registro/crearProducto.php">
 			<input required type="text" name="nombreProducto" placeholder="Producto" />
 			<br>
-			<input required type="text" name="idCategoria" placeholder="ID Categoria"/>
+			<input required type="text" name="idCategoria" placeholder="ID Categoria" pattern="(([1-6]){1})" title="El rango de 'Id Producto' es de 1 a 6"/>
                         <br>
                         <input required type="text" name="precio" placeholder="Precio" />
 			<br>
@@ -23,7 +23,9 @@
 			<form method="POST" action="index.php">
                             
 			<br>
-                        <a href="MantenedorUsuario/Registro.php">Registro</a>
+                        
+                        
+                        <a href="../Index.php">Volver a Inicio</a>
                         
 			</form>
     </body>

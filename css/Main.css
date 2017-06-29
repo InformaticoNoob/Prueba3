@@ -11,7 +11,7 @@
                 height: 900px;
                 background-color: white;
                 margin: auto ;
-                border:4px inset blue;
+                border:4px inset black;
 }
 
 .encabezado1{
@@ -19,7 +19,7 @@
                 height: 100px;
                 background-color: white;
                 margin: auto ;
-                border:4px inset blue;
+                border:4px inset black;
                 font-family: cursive;
 }
 
@@ -29,7 +29,7 @@
                 float: right;
                 background-color: skyblue;
                 margin: 20px 20px 20px 20px ;
-                border:4px inset blue;
+                border:4px inset black;
 }
 
 .contenido{
@@ -37,7 +37,7 @@
                 height: 600px;
                 background-color: white;
                 margin: 20px 20px 20px 20px ;
-                border:4px inset blue;
+                border:4px inset black;
 }
 
 .categoria{
@@ -46,7 +46,7 @@
                 background-color: skyblue;
                 margin:20px 20px 20px 20px ;
                 float: left;
-                border:4px inset blue;
+                border:4px inset black;
                 text-align:left;
                 font-family: cursive;
                 font-style: italic;
@@ -60,7 +60,7 @@
                 background-color: skyblue;
                 margin: 20px 20px 20px 20px ;
                 float: right;
-                border:4px inset blue;
+                border:4px inset black;
                 text-align:center;
 }
 
@@ -71,9 +71,10 @@
                 margin: 20px 20px 20px 20px ;
                 border-color: black;
                 border:2px;
-                border:4px inset blue;
+                border:4px inset black;
                 font-family:Arial;
                 font-size: 10px;
 }
+
 
 
