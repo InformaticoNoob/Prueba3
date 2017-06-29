@@ -32,23 +32,23 @@
                             <h3>Categorias</h3> 
                             <a><i class="fa fa-bed fa-2x"></i>Dormitorio</a>
                             <br>
-                            <a href=Lista/Dormitorio.php >Camas</a>
+                            <a href=Lista/Dormitorio/camas.php >Camas</a>
                             <br>
-                            <a href=Lista/Velador.php >Velador</a>
+                            <a href=Lista/Dormitorio/Velador.php>Velador</a>
                             <br>
                             <br>
                             <a><i class="fa fa-bath fa-2x"></i>Baño</a>
                             <br>       
-                            <a href=Lista/Baño.php >WC</a>
+                            <a href=Lista/Baño/wc.php >WC</a>
                             <br>
-                            <a href=Lista/Baño.php >Lavamanos</a>  
+                            <a href=Lista/Baño/lavamanos.php>Lavamanos</a>  
                             <br>
                             <br>
                             <a><i class="fa fa-lightbulb-o fa-2x" ></i>Living</a>
                             <br>
-                            <a href=css/Living.php >Mesas</a> 
+                            <a href=Lista/Living/mesas.php >Mesas</a> 
                             <br>
-                            <a href=css/Living.php>Lamparas</a> 
+                            <a href=Lista/Living/lamparas.php>Lamparas</a> 
                   </div>
       <div class="encabezado2">
           <h2>¡Tornillos en la Red! </h2>

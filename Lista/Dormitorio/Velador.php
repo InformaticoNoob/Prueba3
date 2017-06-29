@@ -1,9 +1,11 @@
 <link href="../css/estilos.css" rel="stylesheet" type="text/css"/>
 <?php
 
-include ('../lib/conexion.php');
+include ('../../lib/conexion.php');
 
-$resultado = mysqli_query($con, "SELECT * FROM producto");
+
+
+$resultado = mysqli_query($con, "SELECT * FROM producto WHERE id_producto = 2");
 
 
 
