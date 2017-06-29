@@ -22,6 +22,7 @@ $sql= "INSERT INTO producto(nombre_producto, id_categoria, precio, stock) values
 ?>
 
 <a href="../index.php" >Volver a Inicio</a>
+<link href="../css/estilos.css" rel="stylesheet" type="text/css"/>
 
 
 

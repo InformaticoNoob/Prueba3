@@ -2,7 +2,7 @@
 include '../lib/conexion.php'; 
 $usuario = $_POST['nombre'];
 $pass = $_POST["clave"];
-$sql="SELECT * FROM usuario WHERE nombre='".$usuario."' AND clave='".$pass."'";
+$sql="SELECT * FROM usuario WHERE nombre_usuario='".$usuario."' AND clave_usuario='".$pass."'";
 
 $resultado=mysqli_query($con,$sql);
 

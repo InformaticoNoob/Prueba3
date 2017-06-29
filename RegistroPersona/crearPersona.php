@@ -5,7 +5,7 @@ include '../lib/conexion.php';
 $name=$_POST["nombre"];
 $password=$_POST["clave"];
     
-$sql= "INSERT INTO usuario(nombre, clave) values('".$name."','".$password."')";
+$sql= "INSERT INTO usuario(nombre_usuario, clave_usuario) values('".$name."','".$password."')";
 
 
 
