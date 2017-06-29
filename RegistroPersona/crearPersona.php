@@ -19,5 +19,5 @@ $sql= "INSERT INTO usuario(nombre_usuario, clave_usuario) values('".$name."','".
  
 ?>
 <a href="../index.php" >Volver al Inicio</a>
-<link href="../Css/estilos.css" rel="stylesheet" type="text/css"/>
+<link href="../Css/Main.css" rel="stylesheet" type="text/css"/>
 

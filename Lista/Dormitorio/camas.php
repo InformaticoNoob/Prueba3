@@ -1,17 +1,23 @@
-<link href="../css/estilos.css" rel="stylesheet" type="text/css"/>
+<link href="../../css/Main.css" rel="stylesheet" type="text/css"/>
+
+
 <?php
 
 include ('../../lib/conexion.php');
 
-$resultado = mysqli_query($con, "SELECT * FROM producto WHERE id_producto = 1");
+$resultado = mysqli_query($con, "SELECT * FROM producto WHERE id_categoria = 1");
 
 
 
 while ($registro = mysqli_fetch_array($resultado))
 {
-    echo $registro['id_producto'];
+    echo "Nombre Producto: ";
     echo $registro['nombre_producto'];
+    echo "<br>";
+    echo "Precio: $";
     echo $registro['precio'];
+    echo "<br>";
+    echo "Stock Disponible: ";
     echo $registro['stock'];
 }
 

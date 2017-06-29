@@ -3,7 +3,7 @@
     <body>
 	<div>
             <center>
-                <link href="../Css/estilos.css" rel="stylesheet" type="text/css"/>
+                <link href="../Css/Main.css" rel="stylesheet" type="text/css"/>
 		<h2>Formulario Registro</h2>
                 <form method="POST" action="../Registro/crearProducto.php">
 			<input required type="text" name="nombreProducto" placeholder="Producto" />

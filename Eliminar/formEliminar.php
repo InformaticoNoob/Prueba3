@@ -3,7 +3,7 @@
 <TITLE>Eliminar Producto</TITLE>
 </HEAD>
 <BODY>
-    <link href="../Css/estilos.css" rel="stylesheet" type="text/css"/>
+    <link href="../Css/Main.css" rel="stylesheet" type="text/css"/>
 <div align="center">
 <h1>Elimina Producto</h1>
 <br>

@@ -4,10 +4,10 @@ session_start();
 
 ?>
     
-    <link href="Css/estilos.css" rel="stylesheet" type="text/css"/>
+    <link href="Css/Main.css" rel="stylesheet" type="text/css"/>
 <div id="welcome">
  <h3>Bienvenido, <?php echo $_SESSION['nombre'];?>! </h3>
- <p><a href="">Finalice</a> sesión aquí!</p>
+ <p><a href="index.php">Volver a Inicio</a></p>
 </div>
     
 <frameset rows="120,*">

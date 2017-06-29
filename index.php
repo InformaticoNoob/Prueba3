@@ -1,14 +1,22 @@
+<?php
+session_start();
+
+?>
 <html>  
     <head>
     <title>FerreteriaOnTheRoad</title>
-  <link href="css/estilos.css" rel="stylesheet" type="text/css"/>
+  <link href="css/Main.css" rel="stylesheet" type="text/css"/>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
   <body>
  
      
   <div class="principal" align="left">
+      
+    <h3>Bienvenido, <?php echo $_SESSION['nombre'];?>! </h3>
 
+    
+    
     <div class="encabezado1">
         
     <img src="fondo2.jpg" alt="image" height="80px" width="90px" > 
@@ -39,9 +47,9 @@
                             <br>
                             <a><i class="fa fa-bath fa-2x"></i>Baño</a>
                             <br>       
-                            <a href=Lista/Baño/wc.php >WC</a>
+                            <a href=Lista/Bano/wc.php >WC</a>
                             <br>
-                            <a href=Lista/Baño/lavamanos.php>Lavamanos</a>  
+                            <a href=Lista/Bano/lavamanos.php>Lavamanos</a>  
                             <br>
                             <br>
                             <a><i class="fa fa-lightbulb-o fa-2x" ></i>Living</a>

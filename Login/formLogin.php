@@ -4,7 +4,7 @@
     <body>
 	<div>
             <center>
-                <link href="../Css/estilos.css" rel="stylesheet" type="text/css"/>
+                <link href="../Css/Main.css" rel="stylesheet" type="text/css"/>
 		<h1>Login</h1>
                 <form method="POST" action="validarUsuario.php">
 		<table>

@@ -1,12 +1,10 @@
 <link href="../../css/Main.css" rel="stylesheet" type="text/css"/>
-
-
 <?php
 
 include ('../../lib/conexion.php');
 
 
-$resultado = mysqli_query($con, "SELECT * FROM producto WHERE id_categoria = 5");
+$resultado = mysqli_query($con, "SELECT * FROM producto WHERE id_categoria = 4");
 
 
 
