@@ -32,16 +32,16 @@
                             <h3>Categorias</h3> 
                             <a><i class="fa fa-bed fa-2x"></i>Dormitorio</a>
                             <br>
-                            <a href=css/Dormitorio.php >Camas</a>
+                            <a href=Lista/Dormitorio.php >Camas</a>
                             <br>
-                            <a href=css/Dormitorio.php >Velador</a>
+                            <a href=Lista/Velador.php >Velador</a>
                             <br>
                             <br>
                             <a><i class="fa fa-bath fa-2x"></i>Baño</a>
                             <br>       
-                            <a href=css/Baño.php >WC</a>
+                            <a href=Lista/Baño.php >WC</a>
                             <br>
-                            <a href=css/Baño.php >Lavamanos</a>  
+                            <a href=Lista/Baño.php >Lavamanos</a>  
                             <br>
                             <br>
                             <a><i class="fa fa-lightbulb-o fa-2x" ></i>Living</a>

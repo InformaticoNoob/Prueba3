@@ -1,5 +1,5 @@
 <html>
-<head><title>Ingreso de personas"</title></head>
+<head><title>Ingreso de Producto</title></head>
     <body>
 	<div>
             <center>
